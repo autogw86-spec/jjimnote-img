@@ -1,1 +1,12 @@
-
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 /mnt/project-files/jjimnote/_도구/jjim_threads_upload.py check:*)",
+      "Bash(python3 /mnt/project-files/jjimnote/_도구/jjim_threads_upload.py publish:*)",
+      "Bash(python3 /mnt/project-files/jjimnote/_도구/jjim_threads_upload.py replies:*)",
+      "Bash(python3 /mnt/project-files/jjimnote/_도구/jjim_threads_upload.py reply:*)",
+      "Bash(python3 /mnt/project-files/jjimnote/_도구/jjim_threads_upload.py skip:*)",
+      "Bash(python3 /mnt/project-files/jjimnote/_도구/jjim_threads_upload.py insights:*)"
+    ]
+  }
+}
